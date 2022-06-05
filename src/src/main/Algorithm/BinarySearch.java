@@ -1,10 +1,9 @@
 package src.main.Algorithm;
 
-import java.util.Collection;
+public class BinarySearch implements ICalculateParameter {
 
-public class BinarySearch implements IInitialSolutionCreator {
     @Override
-    public Collection<Double> GetInitialSolution() {
-        return null;
+    public double GetParameter() {
+        return 0;
     }
 }
