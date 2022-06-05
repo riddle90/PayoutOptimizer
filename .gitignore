@@ -13,7 +13,7 @@ target/
 .factorypath
 .project
 .settings
-.springBeans
+.springBeansgi
 .sts4-cache
 bin/
 !**/src/main/**/bin/
@@ -33,3 +33,4 @@ bin/
 .DS_Store
 /.idea/
 /.idea/libraries/
+.idea
